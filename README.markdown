@@ -143,6 +143,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 - **Hugging Face**: For Llama 2 and sentence transformers.
 - **LangChain**: For the RAG framework and document processing tools.
 - **Kaggle**: For hosting the dataset and notebook environment.
-
-## Contact
-For questions or feedback, reach out via [your-email@example.com](mailto:your-email@example.com) or open an issue on the repository.
