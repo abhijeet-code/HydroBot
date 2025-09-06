@@ -1,4 +1,4 @@
-# Hydroponics Education Chatbot
+# Hydroponics Education Chatbot [Under Dev.]
 
 ## Overview
 The Hydroponics Education Chatbot is an AI-powered educational tool designed to provide accessible, accurate, and beginner-friendly information about hydroponic farming. Utilizing a Retrieval-Augmented Generation (RAG) architecture, it combines Llama 2 (7B-chat) with a custom dataset of 85 PDF files to answer queries on hydroponic systems, plant selection, nutrient management, and more. Built on a Kaggle notebook, this project leverages open-source libraries and a user-friendly Gradio interface, making it ideal for hobbyists, students, and enthusiasts interested in soilless farming.
